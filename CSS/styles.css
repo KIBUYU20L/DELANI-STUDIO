@@ -22,6 +22,10 @@
     font-size: 10px;
 
 }
+#what-we-do{
+    height: 500px;
+    text-align: center;
+}
 #services{
     height:500px;
     background-image: url("/home/moringa/Desktop/delani-studio/IMG/s_image.jpg");
