@@ -1,0 +1,22 @@
+#home{
+    background-color: red;
+    text-align: center;
+    font-size: 10px;
+    font-family: sans-serif;
+    background-image:file:///home/moringa/Desktop/delani-studio/IMG/h_img.jpg ;
+}
+
+#contact{
+    background-image: url('https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg');
+}
+#about{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10px;
+
+}
+#services{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10px;
+}
