@@ -34,7 +34,13 @@
     font-size: 10px;
     
 }
-.container{
-    background-image: url('');
+.footer{
+    text-align: center;
 }
-
+img{
+    padding-bottom: 10px;
+    padding-right:10px ;
+}
+h4{
+    text-align: center;
+}
