@@ -2,15 +2,15 @@
     /* background-color: red; */
     height: 500px;
     text-align: center;
-    background-image: url("/home/moringa/Desktop/delani-studio/IMG/h_img.jpg");
+    background-image: url("../IMG/h_img.jpg");
     font-size: 10px;
     font-family: sans-serif;
 }
 
-#contact{
-    height: 500px;
-    background-image: url('/home/moringa/Desktop/delani-studio/IMG/c_image.jpg');
-    background-repeat: no-repeat;
+#contact-us{
+    height: 400px;
+    background-image: url("../IMG/c_img.jpg");
+    /* background-repeat: no-repeat; */
     background-size: cover;
     text-align: center;
     
@@ -27,15 +27,18 @@
     text-align: center;
 }
 #services{
-    height:500px;
-    background-image: url("/home/moringa/Desktop/delani-studio/IMG/s_image.jpg");
+    height:400px;
+    background-image: url("../IMG/s_image.jpg");
     text-align: center;
     font-family: sans-serif;
     font-size: 10px;
     
 }
-.footer{
+.Footer{
     text-align: center;
+    /* float: center; */
+    font-size: 8px;
+    font-family: Verdana;
 }
 img{
     padding-bottom: 10px;
