@@ -47,6 +47,7 @@ img{
 }
 h4{
     text-align: center;
+    color: white;
 }
 input[type="text"], input[type="email"], #comment{
     background: transparent;
